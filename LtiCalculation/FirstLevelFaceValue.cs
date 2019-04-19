@@ -21,12 +21,12 @@ namespace LtiCalculation
                                             decimal? faceValuePercent,
                                             decimal? policyBaseSalaryFY)
         {
-            return faceValuePercent / 100m * policyBaseSalaryFY;
+            return PolicyFaceValueAsPercent(faceValuePercent) * policyBaseSalaryFY;
         }
 
-        public decimal? ActualFaceValueAsAmount(
-                                        decimal? faceValue)
+        public decimal? ActualFaceValueAsAmount(decimal? faceValue)
         {
+
             return faceValue;
         }
 

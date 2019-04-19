@@ -1,27 +1,40 @@
 using System;
 using Xunit;
 using LtiCalculation;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace LtiCalculation.Tests
 {
+    public class FaceValueTestData : IEnumerable<object[]>
+    {
+        public IEnumerator<object[]> GetEnumerator()
+        {
+            yield return new object[] { 1500000m, 1500000m };
+            yield return new object[] { null, null };
+        }
+
+        IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
+    }
+
     public class FirstLevelFaceValueTest
     {
         FirstLevelFaceValue flfv = new FirstLevelFaceValue();
 
         #region // Actual Face Value - As Amount
 
-        [Fact]
-        public void ActualFaceValueAsAmountCase1()
+        [Theory]
+        [ClassData(typeof(FaceValueTestData))]
+        public void ActualFaceValue_Returns_ExpectedResult(decimal? faceValue, decimal? expectedResult)
         {
-            Assert.Equal(1500000m,
-                flfv.ActualFaceValueAsAmount(1500000m));
-        }
+            // Arrange
+            FirstLevelFaceValue flfv = new FirstLevelFaceValue();
 
-        [Fact]
-        public void ActualFaceValueAsAmountCase2()
-        {
-            Assert.Null(
-                flfv.ActualFaceValueAsAmount(null));
+            // Act
+            var result = flfv.ActualFaceValueAsAmount(faceValue);
+
+            // Assert
+            Assert.Equal(expectedResult, result);
         }
         #endregion
 
