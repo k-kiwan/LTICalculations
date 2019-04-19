@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{37F303B1-26D1-4D7F-9F52-92480CD16009}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LtiCalculation/FaceValueCalculations.cs">
+    <Files>
+      <File FileName="LtiCalculation/FirstLevelFaceValue.cs" Line="161" Column="25" />
+      <File FileName="LtiCalculation/FaceValueCalculations.cs" Line="52" Column="6" />
+      <File FileName="LtiCalculation/ICalculateValue.cs" Line="35" Column="2" />
+      <File FileName="LtiCalculation/IncentiveAward.cs" Line="35" Column="76" />
+      <File FileName="LtiCalculation/ExecutiveReportingInfo.cs" Line="336" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LtiCalculationProject" expanded="True">
+            <Node name="LtiCalculation" expanded="True">
+              <Node name="FaceValueCalculations.cs" selected="True" />
+            </Node>
+            <Node name="LtiCalculation.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="LtiCalculationProject" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LtiCalculation.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

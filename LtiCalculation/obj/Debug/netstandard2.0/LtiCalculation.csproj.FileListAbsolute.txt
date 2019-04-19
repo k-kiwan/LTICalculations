@@ -1,0 +1,9 @@
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation/bin/Debug/netstandard2.0/LtiCalculation.deps.json
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation/bin/Debug/netstandard2.0/LtiCalculation.dll
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation/bin/Debug/netstandard2.0/LtiCalculation.pdb
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation/obj/Debug/netstandard2.0/LtiCalculation.csprojAssemblyReference.cache
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation/obj/Debug/netstandard2.0/LtiCalculation.csproj.CoreCompileInputs.cache
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation/obj/Debug/netstandard2.0/LtiCalculation.AssemblyInfoInputs.cache
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation/obj/Debug/netstandard2.0/LtiCalculation.AssemblyInfo.cs
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation/obj/Debug/netstandard2.0/LtiCalculation.dll
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation/obj/Debug/netstandard2.0/LtiCalculation.pdb

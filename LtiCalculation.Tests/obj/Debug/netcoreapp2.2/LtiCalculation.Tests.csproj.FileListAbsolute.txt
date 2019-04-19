@@ -1,0 +1,17 @@
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation.Tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation.Tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation.Tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation.Tests/bin/Debug/netcoreapp2.2/LtiCalculation.Tests.deps.json
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation.Tests/bin/Debug/netcoreapp2.2/LtiCalculation.Tests.runtimeconfig.json
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation.Tests/bin/Debug/netcoreapp2.2/LtiCalculation.Tests.runtimeconfig.dev.json
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation.Tests/bin/Debug/netcoreapp2.2/LtiCalculation.Tests.dll
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation.Tests/bin/Debug/netcoreapp2.2/LtiCalculation.Tests.pdb
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation.Tests/bin/Debug/netcoreapp2.2/LtiCalculation.dll
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation.Tests/bin/Debug/netcoreapp2.2/LtiCalculation.pdb
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation.Tests/obj/Debug/netcoreapp2.2/LtiCalculation.Tests.csprojAssemblyReference.cache
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation.Tests/obj/Debug/netcoreapp2.2/LtiCalculation.Tests.csproj.CoreCompileInputs.cache
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation.Tests/obj/Debug/netcoreapp2.2/LtiCalculation.Tests.AssemblyInfoInputs.cache
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation.Tests/obj/Debug/netcoreapp2.2/LtiCalculation.Tests.AssemblyInfo.cs
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation.Tests/obj/Debug/netcoreapp2.2/LtiCalculation.Tests.csproj.CopyComplete
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation.Tests/obj/Debug/netcoreapp2.2/LtiCalculation.Tests.dll
+/Users/katjakiwan/Documents/CAT Code/LtiCalculationProject/LtiCalculation.Tests/obj/Debug/netcoreapp2.2/LtiCalculation.Tests.pdb
